@@ -1011,7 +1011,7 @@ a.theme-btn {
 .home-three,
 .primary-two {
   --primary-color: #FF5F1B;
-  --secondary-color: #6534CE; }
+  --secondary-color: #113D76; }
 
 .home-three .section-title h3 {
   font-weight: 800;
@@ -3817,10 +3817,7 @@ h6, .h6 {
   margin-bottom: 0; }
   .main-header.header-three .logo a,
   .main-header.header-three .mobile-logo a {
-    padding: 30px;
-    border-radius: 50px;
-    display: inline-block;
-    background: var(--primary-color); }
+  }
     @media only screen and (max-width: 991px) {
       .main-header.header-three .logo a,
       .main-header.header-three .mobile-logo a {
@@ -5754,7 +5751,7 @@ h6, .h6 {
     .info-item.style-two.color-two {
       background: #FFF3EE; }
       .info-item.style-two.color-two .icon {
-        color: #6534CE; }
+        color: #113D76; }
   .info-item.style-three {
     margin-top: 30px;
     margin-bottom: 0;
